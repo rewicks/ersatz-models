@@ -1,0 +1,3 @@
+2021 May 31 Mon 15:46:14 EDT test1 /home/hltcoe/rwicks/models/ersatz_models/monolingual/zh  1143  cd ../zh/
+2021 May 31 Mon 15:46:17 EDT test1 /home/hltcoe/rwicks/models/ersatz_models/monolingual/zh  1144  gzip --best 01.Jun.21.zh
+2021 May 31 Mon 15:46:18 EDT test1 /home/hltcoe/rwicks/models/ersatz_models/monolingual/zh  1145  ls
